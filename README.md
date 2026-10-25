@@ -1,28 +1,109 @@
-<h1 align="center">Hi 👋, I'm Mir Ikrammullah Raesani</h1>
-<h3 align="center">Ai And Ml Engineer</h3>
+# Hi 👋, I'm Mir Ikrammullah Raesani
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ikrammir12&label=Profile%20views&color=0e75b6&style=flat" alt="ikrammir12" /> </p>
+### Python Backend & AI Application Developer | LLMs, RAG & Generative AI
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ikrammir12" alt="ikrammir12" /></a> </p>
+I build practical AI applications that combine Python backend development, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and cloud deployment.
 
-- 🔭 I’m currently working on [Ai_research_assistent](https://github.com/ikrammir12/Ai-Research-Assistant.git)
+Currently completing my BS in Computer Science at the University of Azad Jammu and Kashmir, with hands-on experience developing and deploying AI-powered applications.
 
-- 🌱 I’m currently learning **Langgraph , Lora , Qlora**
+- 🔭 **Featured project:** [CogniGraph — Socratic AI Learning Platform](https://cognigraph-student-demo-261024.centralindia.cloudapp.azure.com/)
+- 🧠 **Research interests:** Generative AI, RAG, AI agents, LLM fine-tuning, and multimodal AI
+- ⚙️ **Backend development:** Python, FastAPI, REST APIs, SQLite
+- 📚 **Currently exploring:** Agentic AI, LangGraph, LoRA/QLoRA, and multimodal applications
+- ☁️ **Deployment:** Azure, Linux, Nginx, systemd, and HTTPS
+- 📫 **Email:** [ikrammir69@gmail.com](mailto:ikrammir69@gmail.com)
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/mir-ikrammullah-reasani-41566b312/)
+- 🧑‍💻 **GitHub:** [@ikrammir12](https://github.com/ikrammir12)
 
-- 📫 How to reach me **ikrammir69@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/@ikrammir86268260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@ikrammir86268260" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mir ikrammullah raesani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mir ikrammullah raesani" height="30" width="40" /></a>
-<a href="https://fb.com/mir ikram raesani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mir ikram raesani" height="30" width="40" /></a>
+## 🚀 Featured Projects
+
+### 1. CogniGraph — Socratic AI Learning Platform
+
+An end-to-end AI learning platform designed to support interactive learning through AI-guided tutoring and course-based conversations.
+
+- Developed Python and FastAPI backend services for chat, course management, and AI-powered learning workflows.
+- Integrated LLM-based conversations and RAG for course-material question answering.
+- Implemented Socratic and Normal Chat modes to support different learning and conversation styles.
+- Deployed the application on an Azure Linux VM using Nginx, systemd, and HTTPS.
+
+**Technologies:** Python, FastAPI, LLM APIs, RAG, SQLite, JavaScript, Azure, Linux, Nginx
+
+🔗 [Live Demo](https://cognigraph-student-demo-261024.centralindia.cloudapp.azure.com/)
+
+### 2. AI Research Assistant — Hybrid RAG
+
+An AI-powered document question-answering application that helps users query PDF documents using retrieval and language models.
+
+- Built PDF ingestion, text preprocessing, document chunking, and embedding pipelines.
+- Combined BM25 keyword retrieval with vector similarity search and Reciprocal Rank Fusion (RRF).
+- Integrated LangChain, ChromaDB, and an LLM for context-aware document question answering.
+- Explored retrieval and answer quality using RAGAS evaluation metrics.
+- Created an interactive interface using Gradio.
+
+**Technologies:** Python, LangChain, ChromaDB, BM25, RAG, Gemini API, Gradio, RAGAS
+
+🔗 [View Repository](https://github.com/ikrammir12/Ai-Research-Assistant)
+
+### 3. Heart Disease Prediction Web Application
+
+A machine learning application that serves predictions through a backend API and interactive user interface.
+
+- Developed a classification workflow using scikit-learn.
+- Exposed model predictions through FastAPI REST endpoints.
+- Built an interactive Streamlit interface for submitting inputs and displaying predictions.
+
+**Technologies:** Python, scikit-learn, FastAPI, REST APIs, Streamlit
+
+🔗 [View Repository](https://github.com/ikrammir12/decision-tree-fastapi-ui)
+
+### 4. LLM Chatbot
+
+A conversational AI project exploring local language-model inference and chatbot integration.
+
+- Explored LLM-based conversational interactions.
+- Worked with local model inference and Python-based application development.
+
+**Technologies:** Python, LLMs, Local Inference
+
+🔗 [View Repository](https://github.com/ikrammir12/chatbot-llama2)
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+Python · C++ · JavaScript · R
+
+### AI, Machine Learning & Data Science
+PyTorch · TensorFlow/Keras · scikit-learn · NumPy · Pandas · OpenCV
+
+### Generative AI & LLM Applications
+LLMs · Prompt Engineering · RAG · Embeddings · Vector Search · LangChain · ChromaDB · Hugging Face · Ollama · LoRA/QLoRA
+
+### Backend & Application Development
+FastAPI · REST APIs · SQLite · Streamlit · Gradio
+
+### Cloud & Development Tools
+Microsoft Azure · Linux · Git · GitHub · Docker
+
+---
+
+## 📊 GitHub Statistics
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ikrammir12&show_icons=true&hide_border=true&theme=default" alt="GitHub statistics" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikrammir12&layout=compact&hide_border=true&theme=default" alt="Most used programming languages" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ikrammir12&show_icons=true&locale=en&layout=compact" alt="ikrammir12" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ikrammir12&show_icons=true&locale=en" alt="ikrammir12" /></p>
+## 🤝 Let's Connect
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ikrammir12&" alt="ikrammir12" /></p>
+I'm interested in opportunities involving Python backend development, AI application engineering, Generative AI, and practical LLM-powered systems.
+
+📧 [Email me](mailto:ikrammir69@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/mir-ikrammullah-reasani-41566b312/) · 🐙 [GitHub](https://github.com/ikrammir12)
